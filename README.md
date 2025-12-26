@@ -1,6 +1,6 @@
 # AI Real Estate Lead Qualification Agent
 
-This project implements **Task A (Mandatory)** of the Full Stack Developer Assignment.
+This project implements **Task A ** of the Full Stack Developer Assignment.
 
 ## Overview
 An AI-powered voice/chat assistant built using **Vapi** to qualify real estate leads
